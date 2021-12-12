@@ -1,0 +1,24 @@
+.container-crecimiento{
+    margin: 3%;
+    font-family: cursive;
+    font-size: large;
+}
+.container-imagen1{
+    
+    font-family: cursive;
+    font-size: medium;
+}
+.img1{
+    margin: auto;
+    height: 200px;
+    width: 70%;
+    background-size: cover;
+    background-image: url(https://static.wixstatic.com/media/8f0b15_76656be501c75c1d92a89611dc4f448e.jpg/v1/fill/w_319,h_244,al_c,q_80,usm_0.66_1.00_0.01/8f0b15_76656be501c75c1d92a89611dc4f448e.webp);
+}
+.img2{
+    margin: auto;
+    height: 200px;
+    width: 70%;
+    background-size: cover;
+    background-image: url(https://static.wixstatic.com/media/8f0b15_2c4140665025d3a3c7a04587f6201b37.jpg/v1/fill/w_319,h_244,al_c,q_80,usm_0.66_1.00_0.01/8f0b15_2c4140665025d3a3c7a04587f6201b37.webp) 
+}

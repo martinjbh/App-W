@@ -1,0 +1,51 @@
+/* .menu-container{
+    display: none;
+} */
+
+.menu{
+    z-index: 2;
+    border-color: yellow;
+    border-radius: 10px;
+    position: absolute;
+    top: 58px;
+    left: 3px;
+    background-color: rgb(34, 180, 53);
+    padding: 2%;
+    max-width: max-content;
+    height: 200px;
+    font-family: cursive;
+    font-size: large;
+    color: rgb(65, 63, 59);
+    border-style: solid;
+    
+}
+.pico{
+   z-index: 3;
+    border-radius: 4px;
+    left: 18px;
+    top: 50px;
+    transform: rotate(44deg);
+    position: absolute;
+    background-color: rgb(34, 180, 53);
+    width: 19px;
+    height: 19px;
+}
+.menu-lista{
+    color: rgb(65, 63, 59);
+}
+.menu-container-lista{
+    
+    margin-right: 20px;
+     
+  
+}
+.menu-button-close{
+    position: absolute;
+    top: 10px;
+    right: 9px;
+    background-color: rgb(145, 136, 136);
+    border-radius: 2em;
+    font-size: medium;
+    color: rgb(51, 48, 43);
+    border-color: rgb(57, 151, 85);
+}

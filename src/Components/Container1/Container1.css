@@ -1,0 +1,38 @@
+.container{
+    border-style: solid;
+    position: relative;
+    background-color: rgb(79, 216, 61);
+    height: 150px;
+    width: 95%;
+    border-radius: 1em;
+    padding: 1%;
+    margin: auto;
+}
+.container-img{
+    position: absolute;
+    border-radius: 5em;
+    background-color: blueviolet;
+    width: 150px;
+    height: 100px;
+    margin-top: 25px;
+    margin-left: 5px;
+    border-style: solid;
+    background-size:cover ;
+}
+
+.button{
+    padding: 2%;
+    position: absolute;
+    background-color: rgba(217, 255, 0, 0.856);
+     
+      top: 30px;
+      right: 30px;
+      font-size: xx-large;
+      font-weight:normal;
+      text-align: center;
+      border-radius: 2em;
+      box-shadow: inset 4px 5px black;
+      text-decoration: none;
+
+}
+
