@@ -7,7 +7,7 @@
     border-radius: 1em;
     padding: 1%;
     display: grid;
-    margin: 3px;
+    margin: 4px;
     align-content: space-around;
     
     
@@ -21,6 +21,7 @@
     border-style: solid;
     background-size:cover ;
     margin-top: 10px;
+    
 }
 
 .button2{
